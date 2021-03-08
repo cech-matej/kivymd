@@ -1,0 +1,19 @@
+{
+  "person": [
+    {
+      "name": "Otto Wichterle",
+      "invention": "Kontaktní čočky",
+      "state": "cz"
+    },
+    {
+      "name": "Thomas Alva Edison",
+      "invention": "Žárovka",
+      "state": "usa"
+    },
+    {
+      "name": "Franz San Galli",
+      "invention": "Radiátor",
+      "state": "it"
+    }
+  ]
+}
